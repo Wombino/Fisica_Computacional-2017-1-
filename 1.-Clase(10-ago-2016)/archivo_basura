@@ -1,0 +1,5 @@
+!#ipython
+echo "Pollo"
+echo "Este es el contenido del directorio"
+ls
+
